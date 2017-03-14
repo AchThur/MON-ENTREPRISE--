@@ -1,0 +1,15 @@
+/*
+theme name: Theme site Entreprise
+theme URI:Ludus1b.com
+author:Arthur barthlen 
+Description:Theme css site web Ludus 1b
+Version:1.0
+License:Ludus1b
+License URI:Ludus1b.com
+Text Domain:Ludus1b
+*/
+
+body{
+	background-image: url("Images/Background.jpg");
+	background-repeat: no-repeat;
+}
